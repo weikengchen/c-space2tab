@@ -1,21 +1,21 @@
 {
-  "name": "weikengcodestyle",
+  "name": "c-space2tab",
   "version": "1.0.0",
-  "description": "Turn C code into Weikeng's code style",
+  "description": "Turn C code indentation from spaces to tabs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/weikengchen/weikengcodestyle.git"
+    "url": "git+https://github.com/weikengchen/c-space2tab.git"
   },
   "author": "Weikeng Chen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/weikengchen/weikengcodestyle/issues"
+    "url": "https://github.com/weikengchen/c-space2tab/issues"
   },
-  "homepage": "https://github.com/weikengchen/weikengcodestyle#readme",
+  "homepage": "https://github.com/weikengchen/c-space2tab#readme",
   "dependencies": {
     "c-tokenizer": "github:substack/c-tokenizer",
     "get-stdin": "^6.0.0"
