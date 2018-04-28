@@ -1,0 +1,23 @@
+{
+  "name": "weikengcodestyle",
+  "version": "1.0.0",
+  "description": "Turn C code into Weikeng's code style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weikengchen/weikengcodestyle.git"
+  },
+  "author": "Weikeng Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weikengchen/weikengcodestyle/issues"
+  },
+  "homepage": "https://github.com/weikengchen/weikengcodestyle#readme",
+  "dependencies": {
+    "c-tokenizer": "github:substack/c-tokenizer",
+    "get-stdin": "^6.0.0"
+  }
+}
